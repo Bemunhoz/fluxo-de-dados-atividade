@@ -1,5 +1,8 @@
 import pandas as pd
 from sqlalchemy import create_engine
+#nome: Beatriz Munhoz Dias
+#RA: 28219079
+
 
 #extrat
 url =  "https://raw.githubusercontent.com/datasets/covid-19/main/data/countries-aggregated.csv"
